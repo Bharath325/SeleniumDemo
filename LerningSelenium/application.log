@@ -1,0 +1,23 @@
+2021-12-30 16:06:30,700  INFO [main] Log4jDemo:19 - Browser Open
+2021-12-30 16:06:33,509  INFO [main] Log4jDemo:22 - Application opened
+2021-12-30 16:06:33,525  INFO [main] Log4jDemo:28 - Corret page opened
+2021-12-30 16:06:36,476  INFO [main] Log4jDemo:32 - Login sucessful
+2021-12-30 16:06:37,493  INFO [main] Log4jDemo:36 - Logged out successfully
+2021-12-30 16:08:34,257  INFO [main] Log4jDemo:19 - Browser Open
+2021-12-30 16:08:38,167  INFO [main] Log4jDemo:22 - Application opened
+2021-12-30 16:08:38,182  INFO [main] Log4jDemo:28 - Corret page opened
+2021-12-30 16:08:39,194  INFO [main] Log4jDemo:32 - Login successful
+2021-12-30 16:13:41,715  INFO [main] Log4jDemo:19 - Browser Open
+2021-12-30 16:13:44,606  INFO [main] Log4jDemo:22 - Application opened
+2021-12-30 16:13:44,620  INFO [main] Log4jDemo:28 - Corret page opened
+2021-12-30 16:13:45,595 ERROR [main] Log4jDemo:40 - Wrong credentials
+2021-12-30 16:13:45,596  INFO [main] Log4jDemo:42 - Logged out successfully
+2021-12-30 16:14:35,244  INFO [main] Log4jDemo:19 - Browser Open
+2021-12-30 16:14:38,296  INFO [main] Log4jDemo:22 - Application opened
+2021-12-30 16:14:38,313  INFO [main] Log4jDemo:28 - Corret page opened
+2021-12-30 16:14:39,268 ERROR [main] Log4jDemo:42 - Wrong credentials
+2021-12-31 11:52:21,759  INFO [main] Log4jDemo:19 - Browser Open
+2021-12-31 11:52:24,933  INFO [main] Log4jDemo:22 - Application opened
+2021-12-31 11:52:24,951  INFO [main] Log4jDemo:28 - Corret page opened
+2021-12-31 11:52:36,453  INFO [main] Log4jDemo:35 - Login successful
+2021-12-31 11:52:40,410  INFO [main] Log4jDemo:37 - Logged out successfully
